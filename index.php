@@ -23,6 +23,12 @@ session_start();
         <label>E-mail:</label>
         <input type="email" name="email" placeholder="Informe seu melhor email">
         <br>
+        <label>Cidade:</label>
+        <input type="cidade" name="cidade" placeholder="Informe sua cidade">
+        <br>
+        <label>Estado:</label>
+        <input type="estado" name="estado" placeholder="Informe seu estado">
+        <br>
         <input type="submit" value="Cadastrar">
     </form>
 </body>
